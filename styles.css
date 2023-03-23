@@ -1,12 +1,12 @@
 #animal-photos
 {
-	background:grey;
+	background:#757575;
 	color:white;
 	padding:15px;
 	border-radius:10px;
 }
 img{
 	width:170px;
-	border:2px solid grey;
+	border:2px solid #757575;
 	border-radius:10px;
 }
